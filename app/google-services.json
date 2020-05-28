@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874158119041",
+    "firebase_url": "https://my-b100c.firebaseio.com",
+    "project_id": "my-b100c",
+    "storage_bucket": "my-b100c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874158119041:android:4f43d0fc0c57b92c1ad580",
+        "android_client_info": {
+          "package_name": "com.example.myyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874158119041-gvdgvd1holj11450mvtd48vm27nfleil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwIRIBzlJefT28jf85t0PLb_BGgCpmbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874158119041-gvdgvd1holj11450mvtd48vm27nfleil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

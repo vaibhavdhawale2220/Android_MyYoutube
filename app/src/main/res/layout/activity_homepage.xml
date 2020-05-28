@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".homepage">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/martin"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/martin">
+        </Button>
+
+        <Button
+            android:id="@+id/chainsmokers"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/chainsmokers">
+        </Button>
+
+        <Button
+            android:id="@+id/kshmr"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/kshmr">
+        </Button>
+
+        <Button
+            android:id="@+id/avicii"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/avicii">
+        </Button>
+
+        <Button
+            android:id="@+id/zayn"
+            android:layout_width="match_parent"
+            android:layout_height="187dp"
+            android:background="@drawable/zayn">
+        </Button>
+
+        <Button
+            android:id="@+id/snake"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/snake">
+        </Button>
+
+        <Button
+            android:id="@+id/marshmellow"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/marshmellow">
+        </Button>
+
+        <Button
+            android:id="@+id/justin"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/justin">
+        </Button>
+
+        <Button
+            android:id="@+id/afrojack"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/afrojack">
+        </Button>
+
+        <Button
+            android:id="@+id/alan"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/alan">
+        </Button>
+    </LinearLayout>
+
+</ScrollView>
+
